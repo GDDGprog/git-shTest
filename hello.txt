@@ -1,2 +1,7 @@
 
+<<<<<<< HEAD
+master
 aaa!!! aaa你好
+=======
+aaa!!! hot-fix
+>>>>>>> hot-fix
